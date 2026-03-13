@@ -1,7 +1,5 @@
 # Java do Zero para Iniciantes com IA
-
-Projeto desenvolvido como parte de um desafio da DIO para explorar o uso da Inteligência Artificial como ferramenta de aprendizagem ativa utilizando o NotebookLM.
-
+Projeto desenvolvido como parte de um desafio da DIO para explorar o uso da Inteligência Artificial com NotebookLM no aprendizado dos fundamentos da linguagem Java.
 ## Contexto
 
 Este projeto tem como objetivo criar um caderno temático de estudos sobre Java para iniciantes, utilizando Inteligência Artificial para organizar conteúdos, gerar resumos e estruturar o conhecimento.
@@ -140,3 +138,20 @@ Conclusão
 A utilização do NotebookLM permitiu organizar conteúdos, gerar resumos e estruturar um guia de estudos eficiente para iniciantes na linguagem Java.
 
 Esse projeto demonstra como a Inteligência Artificial pode ser utilizada como ferramenta de apoio no aprendizado técnico.
+
+---
+
+## Ferramentas Utilizadas
+
+- Java
+- NotebookLM
+- GitHub
+- Inteligência Artificial aplicada ao aprendizado
+
+---
+
+## Autor
+
+Projeto desenvolvido por Marcelo Camargo como parte dos desafios da DIO.
+
+GitHub: https://github.com/marcxellcamargo-cloud
